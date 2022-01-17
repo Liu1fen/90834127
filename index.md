@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+<html><head>
+<title>圖片練習</title>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/Liu1fen/90834127/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="2nd.index.html">舒服蕾</a>
+<a href="3nd.index.html">九記食糖水</a>
+<a href="4nd.index.html">朵玫絲甜點森林</a>
+<a href="5nd.index.html">心得</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<table border="1">
+<tbody><tr>
+<th valign="bottom"><h2>圖片</h2></th>
+<th valign="bottom"><h2 valign="middie">標題</h2></th>
+<th valign="bottom"><h2 valign="middie">說明</h2></th>
+</tr>
 
-### Markdown
+<tr>
+<td><img src="001.jpg" width="400" height="300" align="left"></td>
+<td align="center"><h3>帶有蓬鬆綿密空氣感的鬆餅，幸福的甜蜜滋味，激推 六盛茶苑 舒芙蕾鬆餅專賣</h3></td>
+<td align="center">使用勤億葉黃素是好蛋製作，高成本的雞蛋搭配手打奶泡麵糊，麵粉使用日本麵粉
+在口感香氣上絕對可以感受到用料的實在頂級、高成本
+很多身邊姊妹吃過，都覺得六盛茶苑舒芙蕾鬆餅很好吃。<br></td>
+</tr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<tr>
+<td><img src="002.jpg" width="400" height="300" align="left"></td>
+<td align="center"><h3>黑色店面寫著「食糖水」三個字，在粵語中就是喝甜湯的意思啦～</h3></td>
+<td align="center">九記食糖水除了店內濃厚的香港風格外，老闆運用甜品的創意手繪更是必看
 
-```markdown
-Syntax highlighted code block
+老闆信手捻來用芝麻糊與杏仁糊就畫出太極圖樣、人臉等等，實在有趣～<br></td>
+</tr>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Liu1fen/90834127/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<tr>
+<td><img src="003.jpg" width="400" height="300" align="left"></td>
+<td align="center"><h3> 近期又推出全新療癒口味的現烤蛋糕甜點啦！</h3></td>
+<td align="center">新推出的炙燒蒜香起司絕對濃郁，完全滿足蒜味愛好者的味蕾！柔軟濕潤的蛋糕加起司夾心，有鹹鹹的奶香風味～<br></td>
+</tr></tbody></table></body></html>
